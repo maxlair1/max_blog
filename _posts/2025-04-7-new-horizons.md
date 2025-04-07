@@ -14,7 +14,7 @@ I have developed a keen interest in Linux, particularly [Arch](https://archlinux
 
 My planned dotfiles are:
 |Purpose|Selection|
-|-------|---------|
+|----------------|
 |OS | Arch Linux|
 |WM | [Hyprland](https://github.com/hyprwm/Hyprland), [GNOME](https://www.gnome.org/)|
 |Terminal | [Alacritty](https://github.com/alacritty/alacritty)|
