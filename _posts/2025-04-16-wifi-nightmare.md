@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WIFI Nightmare
+date: 2025-04-16
 ---
 
 # Wifi Nightmare on MacBookPro + Arch Linux
