@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Horizons
+date: 2025-04-07
 ---
 
 # New Horizons
