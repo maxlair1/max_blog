@@ -1,9 +1,9 @@
 ---
 layout: post
-title: WIFI Nightmare Macbook+Arch
+title: WIFI Nightmare
 ---
 
-# Wifi Nightmare
+# Wifi Nightmare on MacBookPro + Arch Linux
 
 The terrible trouble-maker that is the Broadcom *brcm43206* wifi chip in the MacBook Pro 14,2— and how I solved the "unfixable" Arch Linux issue.
 
